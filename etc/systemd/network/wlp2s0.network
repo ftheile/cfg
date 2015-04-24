@@ -2,4 +2,4 @@
 Name=wlp2s0
 
 [Network]
-DHCP=both
+DHCP=yes
